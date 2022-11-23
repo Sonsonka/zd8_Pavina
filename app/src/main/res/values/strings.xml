@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">zd8_Pavina_ind</string>
+    <string name="registartion">Регистрация</string>
+    <string name="user_name">Имя пользователя</string>
+    <string name="user_email">Адрес электронной почта</string>
+    <string name="password">Пароль</string>
+    <string name="list_activity">Список дел</string>
+    <string name="name_todo">Заголовок задачи</string>
+    <string name="descriptions_todo">Описание задачи</string>
+    <string name="date_todo">14.01.2021</string>
+    <string name="time_todo">16:30</string>
+    <string name="add_task">Добавить задачу</string>
+    <string name="zap_task">Записать задачу</string>
+    <string name="vazh_task">Степень важности задачи</string>
+    <string name="edit_task">Изменить задачу</string>
+    <string name="delete_task">Удалить задачу</string>
+</resources>
